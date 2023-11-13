@@ -83,7 +83,7 @@ Please cite the following paper if you are using the SciTweets classifier
 ```
 
 ## Licensing
-This code is published under CC BY 4.0 license. It allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator (https://creativecommons.org/licenses/by/4.0/)
+This code is published under the MIT license (https://opensource.org/license/mit/). 
 
 ## Contact
 Please contact sebastian.schellhammer@gesis.org
